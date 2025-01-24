@@ -1,0 +1,58 @@
+*{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 20px;
+}
+h1{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+}
+.preview{
+    border: 5px solid black;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+}
+.nav-button{
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.home{
+    background-image: url("recipes/CulinaryExperience.png");
+    background-position-x: center;
+    background-size: 70%;
+    text-align: center;
+}
+
+.home ul{
+    display: inline-block;
+    text-align: center;
+    background-color: bisque;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+.toast{
+    background-image: url("recipes/toast.jpeg");
+}
+.instructions{
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: beige;
+    display: inline-block;
+}
+p.instructions{
+    font-size: 1.5rem;
+    
+    font-weight: 900;
+    
+}
+.flair{
+
+    background-image: linear-gradient(purple,yellow );
+    background-color: red;
+}
